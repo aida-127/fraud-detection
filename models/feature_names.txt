@@ -1,0 +1,14 @@
+purchase_value
+age
+ip_address
+hour_of_day
+day_of_week
+time_since_signup
+user_transaction_count
+source_Direct
+source_SEO
+browser_FireFox
+browser_IE
+browser_Opera
+browser_Safari
+sex_M
